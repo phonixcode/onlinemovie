@@ -1,0 +1,140 @@
+body{
+  font-family: sans-serif;
+  height: 100%;
+
+}
+.navbar-text{
+  font-size: 30px;
+  font-weight: bold;
+}
+.navbar li{
+  padding: 0 40px;
+}
+.nav-item a{
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+
+}
+
+.navbar span{
+  font-size: 25px;
+}
+
+.nav-item a:hover{
+  color: orange;
+  border-bottom: 2px solid orange;
+}
+
+.navbar-brand img{
+  height: 80px;
+
+}
+
+.jumbotron{
+  position: inherit;
+  margin-top: 7%;
+
+}
+
+.jumbotron h1{
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.jumbotron-fluid{
+  background-color: #2d2f33;
+  color: #e2dd31;
+  margin-left: 2%;
+  margin-right: 2%;
+  height: 150vh;
+
+}
+
+.jumbotron-fluid h1:hover{
+  color: #85c639;
+}
+
+.jumbotron-fluid h4:hover{
+  color: #85c639;
+}
+
+.jumbotron-fluid h5{
+  color:#9e8b24;
+}
+
+.container video{
+  margin-left: 2%;
+}
+
+.loginbutton{
+  text-align: center;
+  align-items: center;
+}
+
+.signupbutton{
+
+  text-align: center;
+}
+
+h2:after{
+  width: 150px;
+  height: 2px;
+  background-color: orange;
+  display: block;
+  content: "";
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.features h2{
+  margin-top: 60px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.container-fluid{
+  background-image: url(../images/back.jpg);
+  height: 50vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  border: 2px solid grey;
+}
+
+.container-fluid h1{
+  color: white;
+}
+
+.navbar-brand img{
+  height: 80px;
+
+}
+
+.features p{
+  margin-top: 20%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.arrange{
+  text-align: justify;
+}
+
+.row img{
+  height: 60px;
+  width: 60px;
+  margin-left: 40%;
+  margin-bottom: 20%;
+}
+
+.page-footer{
+  background-color: black;
+  color: white;
+}
+.col a{
+  text-align: center;
+}
