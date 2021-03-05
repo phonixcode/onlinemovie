@@ -47,4 +47,3 @@ The web application is made up of 2 sections:
         * Password: admin
 
 # Screenshots :
-
