@@ -31,7 +31,7 @@ The web application is made up of 2 sections:
  
 # Installation :
 - Setup
-    * Download or Clone this repo (add repo url)
+    * Download or Clone this repo "https://github.com/phonixcode/onlinemovie.git"
     * Download and Install XAMPP from "https://www.apachefriends.org/download.html"
     * Run the XAMPP control panel and start MYSQL and Apache
     * Go to C:\xampp\htdocs and extract the downloaded zip folder inside the 'htdocs' folder
