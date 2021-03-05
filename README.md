@@ -45,5 +45,3 @@ The web application is made up of 2 sections:
     - Accessing Admin Account
         * Username: admin@email.com
         * Password: admin
-
-# Screenshots :
