@@ -2,14 +2,14 @@ Online movie streaming is a web based application system developed using PHP and
 Users can search for different kinds of movie genres, users can view recently uploaded movies and most watched movies.
 
 The web application is made up of 2 sections:
-    Users section and an Admin section.
+    - Users section and an Admin section.
         
 # Functionalities:
-   - login system: create an account, delete account, update user details.
-    - Watching Movies / Videos
-    - recently updated/uploaded videos
-    - most viewed videos
-    - search functionality
+	   - login system: create an account, delete account, update user details.
+	   - Watching Movies / Videos
+	   - recently updated/uploaded videos
+	   - most viewed videos
+	   - search functionality
 
 * The admin role is assigned to the first user to create an account.
 * Only the admin can upload movies/videos and images.
